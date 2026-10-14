@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+competitive_game.sqlite3
+responses/
+.env
+config.json
+.test-tmp-*/
+.test_competitive_game.sqlite3
